@@ -1,0 +1,29 @@
+_repo: The-Eight-Strokes-of-the-Clock_7896
+_version: 0.0.1
+alternative_title: Huit coups de l'horloge. English
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lupin, Arsène (Fictitious character) -- Fiction'
+- !lcsh 'Burglars -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Adventure stories, French -- Translations into English'
+- GITenberg
+title: The Eight Strokes of the Clock
+url: http://www.gutenberg.org/ebooks/7896
