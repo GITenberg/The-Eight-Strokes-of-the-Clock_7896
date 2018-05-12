@@ -1,6 +1,9 @@
 _repo: The-Eight-Strokes-of-the-Clock_7896
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Huit coups de l'horloge. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7896#The-Eight-Strokes-of-the-Clock
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
